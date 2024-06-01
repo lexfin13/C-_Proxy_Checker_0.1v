@@ -1,0 +1,13 @@
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\bin\Debug\Proxy Checker by Lexfin1946.exe.config
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\bin\Debug\Proxy Checker by Lexfin1946.exe
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\bin\Debug\Proxy Checker by Lexfin1946.pdb
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\obj\Debug\Proxy Checker by Lexfin1946.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\obj\Debug\Proxy_Checker_by_Lexfin1946.Form1.resources
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\obj\Debug\Proxy_Checker_by_Lexfin1946.Properties.Resources.resources
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\obj\Debug\Proxy Checker by Lexfin1946.csproj.GenerateResource.cache
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\obj\Debug\Proxy Checker by Lexfin1946.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\obj\Debug\Proxy Checker by Lexfin1946.exe
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\obj\Debug\Proxy Checker by Lexfin1946.pdb
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\bin\Debug\Leaf.xNet.dll
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\bin\Debug\Leaf.xNet.xml
+C:\Users\baran\OneDrive\Masaüstü\Proxy Checker by Lexfin1946\obj\Debug\Proxy Checker by Lexfin1946.csproj.CopyComplete
